@@ -1,6 +1,6 @@
 # GIT PRACTICE REPOSITORY 
 
-##ABOUT
+## ABOUT
 This repository is to learn fundamentals of github
 	
 ##Topics covered
@@ -8,6 +8,6 @@ This repository is to learn fundamentals of github
 - Staging and commit
 - Pushing to github
 
-##Tools used
+## Tools used
 - git
 - github
