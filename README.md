@@ -1,3 +1,13 @@
-#PRACTICE REPOSITORY 
+# GIT PRACTICE REPOSITORY 
 
-created to learn basics
+##ABOUT
+This repository is to learn fundamentals of github
+	
+##Topics covered
+- Installation
+- Staging and commit
+- Pushing to github
+
+##Tools used
+- git
+- github
