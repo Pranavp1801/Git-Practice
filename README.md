@@ -3,7 +3,7 @@
 ## ABOUT
 This repository is to learn fundamentals of github
 	
-##Topics covered
+## Topics covered
 - Installation
 - Staging and commit
 - Pushing to github
